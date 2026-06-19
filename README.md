@@ -11,14 +11,13 @@ Aspiring Software Engineer focused on building clean, interactive, and user-cent
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/manyahh07/manyahh07/output/github-contribution-grid-snake.svg)
-
+![snake](...)
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=manyahh07&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=manyahhh07&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyahh07&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyahhh07&layout=compact)
 
 
 ## About Me
