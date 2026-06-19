@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Manya Singh
 
-<!--
-**manyahhh07/manyahhh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer focused on building clean, interactive, and user-centric software products.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+
+
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/manyahh07/manyahh07/output/github-contribution-grid-snake.svg)
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=manyahh07&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyahh07&layout=compact)
+
+
+## About Me
+
+- Building frontend and full-stack development projects
+- Interested in software engineering, problem solving, and developer tools
+- Currently working on interactive web applications and visualization projects
+- Open to internships, collaborations, and software engineering opportunities
+
+## Tech Stack
+
+**Languages:** JavaScript, Python, Java, C, C++  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express.js  
+**Tools & Platforms:** Git, GitHub, Vercel, VS Code  
+
+## Connect
+
+- LinkedIn:(https://www.linkedin.com/in/manya-singh-2267a83a7/)
+- Email: manyahh07@gmail.com
