@@ -8,17 +8,6 @@ Aspiring Software Engineer focused on building clean, interactive, and user-cent
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 
-
-##  Contribution Snake
-
-
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=manyahhh07&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyahhh07&layout=compact)
-
-
 ## About Me
 
 - Building frontend and full-stack development projects
@@ -37,3 +26,26 @@ Aspiring Software Engineer focused on building clean, interactive, and user-cent
 
 - LinkedIn:(https://www.linkedin.com/in/manya-singh-2267a83a7/)
 - Email: manyahh07@gmail.com
+
+
+
+##  Contribution Snake
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=manyahhh07&color=blue)
+
+![GitHub followers](https://img.shields.io/github/followers/manyahhh07?label=Followers&style=social)
+
+![GitHub Stars](https://img.shields.io/github/stars/manyahhh07?affiliations=OWNER&style=social)
+
+
+## Trophy Badges
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manyahhh07)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+##  GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=manyahhh07&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manyahhh07&layout=compact)
