@@ -9,11 +9,14 @@ Aspiring Software Engineer focused on building clean, interactive, and user-cent
 
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
-![snake](...)
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=manyahhh07&show_icons=true)
 
