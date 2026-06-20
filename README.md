@@ -24,24 +24,17 @@ Aspiring Software Engineer focused on building clean, interactive, and user-cent
 
 ## Connect
 
-- LinkedIn:(https://www.linkedin.com/in/manya-singh-2267a83a7/)
+- LinkedIn:(www.linkedin.com/in/manya-singhh07)
 - Email: manyahh07@gmail.com
 
 
-
 ##  Contribution Snake
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manyahhh07&color=blue)
 
 ![GitHub followers](https://img.shields.io/github/followers/manyahhh07?label=Followers&style=social)
 
 ![GitHub Stars](https://img.shields.io/github/stars/manyahhh07?affiliations=OWNER&style=social)
-
-
-## Trophy Badges
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manyahhh07)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ##  GitHub Stats
